@@ -1,0 +1,3 @@
+﻿  客户端.c
+D:\学习\学习记录\TCPIP网络编程学习记录\Windows\网络编程学习工程文件\客户端\客户端\客户端.c(49,29): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  客户端.vcxproj -> D:\学习\学习记录\TCPIP网络编程学习记录\Windows\网络编程学习工程文件\客户端\客户端\Debug\客户端.exe
